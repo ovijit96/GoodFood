@@ -61,4 +61,32 @@ text-align: center;
     text-align: center;
 
 }
-/* dfalkdjfha */
+#card-box{
+    /* width: 884px; */
+    margin 100px;
+    background-color: antiquewhite;
+}
+#card-box .title{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 42px;
+font-weight: bolder;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+}
+#card-box .subtitle{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 24px;
+font-weight: lighter;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.one .card ,image{
+    width: 250px;
+}
+
+
