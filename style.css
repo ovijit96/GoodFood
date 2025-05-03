@@ -1,0 +1,62 @@
+#hero{
+    height: 520px;
+    border: solid 3px orange;
+    background-image: url(/assets/hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    
+}
+#hero .hero-content{
+    width: 589px;
+    gap: 10px;
+}
+#hero .hero-content .subtitle{
+    color: white(255, 29, 4);
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 600;
+/* line-height: 38px; */
+letter-spacing: 0%;
+text-align: center;
+}
+#hero .hero-content .title{
+    color: white(244, 4, 4);
+font-family: Work Sans;
+font-size: 44px;
+font-weight: 400;
+/* line-height: 80px; */
+letter-spacing: 0%;
+text-align: center;
+}
+#hero .hero-content .discroption{
+    color: rosybrown;
+    font-weight: bold;
+font-family: Work Sans;
+font-size: 12px;
+font-weight: 400;
+/* line-height: 28px; */
+letter-spacing: 0%;
+text-align: center;
+}
+.switch{
+    padding: 21px 32px 21px 32px;
+    background-color: tomato;
+    color: white;
+    font-family: Work sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: center;
+    border-radius: 15px;
+}
+.switch-btn{
+    text-align: center;
+}
